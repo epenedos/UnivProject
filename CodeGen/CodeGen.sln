@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeGen", "CodeGen\CodeGen.csproj", "{325876F4-42EF-4EBC-86FE-9CA54EB56821}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CodeGenSetup", "CodeGenSetup\CodeGenSetup.vdproj", "{B00C53A1-9ED2-4531-8DB3-1ACF3C254D90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtendProperties", "ExtendProperties\ExtendProperties.csproj", "{5E807F30-98A7-453D-A3B2-8E2FC4091B76}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{325876F4-42EF-4EBC-86FE-9CA54EB56821}.Debug.ActiveCfg = Debug|.NET
+		{325876F4-42EF-4EBC-86FE-9CA54EB56821}.Debug.Build.0 = Debug|.NET
+		{325876F4-42EF-4EBC-86FE-9CA54EB56821}.Release.ActiveCfg = Release|.NET
+		{325876F4-42EF-4EBC-86FE-9CA54EB56821}.Release.Build.0 = Release|.NET
+		{B00C53A1-9ED2-4531-8DB3-1ACF3C254D90}.Debug.ActiveCfg = Debug
+		{B00C53A1-9ED2-4531-8DB3-1ACF3C254D90}.Release.ActiveCfg = Release
+		{5E807F30-98A7-453D-A3B2-8E2FC4091B76}.Debug.ActiveCfg = Debug|.NET
+		{5E807F30-98A7-453D-A3B2-8E2FC4091B76}.Debug.Build.0 = Debug|.NET
+		{5E807F30-98A7-453D-A3B2-8E2FC4091B76}.Release.ActiveCfg = Release|.NET
+		{5E807F30-98A7-453D-A3B2-8E2FC4091B76}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		ThisSolutionNotes = 
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
